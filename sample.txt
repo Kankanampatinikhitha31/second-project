@@ -1,3 +1,2 @@
 print('nikhitha')
 print('cse')
-print('kankanampatinikhitha31@gmail.com')
